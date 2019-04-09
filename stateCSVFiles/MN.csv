@@ -1,0 +1,304 @@
+PWSID,PWS_NAME,PWS_TYPE_CODE,ADDRESS_LINE1,ADDRESS_LINE2,ZIP_CODE,CITY_NAME,EPA_REGION,PRIMACY_AGENCY_CODE,POPULATION_SERVED_COUNT,ORG_NAME,STATE_CODE,COUNTIES_SERVED
+MN1010001,Aitkin,CWS,109 First Avenue Northwest,,56431,Aitkin,05,MN,2165,Aitkin City Council,MN,Aitkin
+MN1010002,Thompson Mobile Home Park,CWS,39088 St. Hwy. 47,,56431,Aitkin,05,MN,45,Thompson Mobile Home Park,MN,Aitkin
+MN1010011,Hill City,CWS,City Hall,P.O. Box 160,55748-0160,Hill City,05,MN,633,Hill City Council,MN,Aitkin
+MN1010013,Palisade,CWS,Palisade City Hall,P.O. Box 144,56469,Palisade,05,MN,168,Palisade City Council,MN,Aitkin
+MN1010016,McGregor,CWS,P.O. Box 100,,55760,McGregor,05,MN,394,City of McGregor,MN,Aitkin
+MN1010019,Why-Not Park,CWS,P.O. Box 1014,,56342,Isle,05,MN,25,,MN,Aitkin
+MN1020001,Anoka,CWS,Anoka City Hall,2015 First Avenue North,55303,Anoka,05,MN,17995,Anoka City Council,MN,Anoka
+MN1020002,Flamingo Terrace Mobile Home Park,CWS,17100 Highway 65 NE,,55304,Ham Lake,05,MN,654,Flamingo Terrace Mobile Home Park,MN,Anoka
+MN1020005,GreyStone MHP,CWS,100 Angel Avenue SW,,55388,Watertown,05,MN,560,GreyStone LLC,MN,Anoka
+MN1020006,Blaine,CWS,Blaine Public Works,10801 Town Square Drive,55449-8101,Blaine,05,MN,64900,Blaine City Council,MN,Anoka
+MN1020007,Fridley Terrace Mobile Home Park,CWS,7400 Taylor Street NE,,55432,Fridley,05,MN,800,Fridley Terrace Mobile Home Park,MN,Anoka
+MN1020010,Centennial Square Mobile Home Park,CWS,A.L.S. Properties,"c/o Mr. Alvan L. Schrader, President",55449,Blaine,05,MN,2000,Centennial Square Mobile Home Park,MN,Anoka
+MN1020011,Village Green North Mobile Home Park,CWS,"18164 Highway 65 NE, Box 11",,55011,Cedar,05,MN,530,Linda Holter or Shannon Morris,MN,Anoka
+MN1020013,Circle Pines,CWS,Circle Pines City Hall,200 Civic Heights Circle,55014,Circle Pines,05,MN,4909,Circle Pines City Council,MN,Anoka
+MN1020014,Baldwin Lake Estates,CWS,Summit Management,333 N. Main Street,55082,Stillwater,05,MN,260,Baldwin Lake Estates,MN,Anoka
+MN1020015,MN Correctional Facility - Lino Lakes,CWS,7525 Fourth Avenue,,55014,Lino Lakes,05,MN,1300,MN Correctional Facility - Lino Lakes,MN,Anoka
+MN1020016,Columbia Heights,CWS,Columbia Heights City Hall,590 40th Avenue NE,55421-3878,Columbia Heights,05,MN,19496,Columbia Heights City Council,MN,Anoka
+MN1020017,Coon Rapids,CWS,Coon Rapids City Hall,11155 Robinson Drive NW,55433-3761,Coon Rapids,05,MN,62726,Coon Rapids City Council,MN,Anoka
+MN1020023,Lino Lakes,CWS,Lino Lakes City Hall,600 Town Center Parkway,55014,Lino Lakes,05,MN,13770,Lino Lakes City Council,MN,Anoka
+MN1020024,Restwood Terrace,CWS,3631 91st Drive NE,"c/o Mr. David Czech, Owner",55014,Circle Pines,05,MN,550,John Czech,MN,Anoka
+MN1020025,"Parkview Homes, LLC",CWS,3855 Liberty Lane,,55014,Lexington,05,MN,236,Sean O%27Connor,MN,Anoka
+MN1020028,Saint Francis,CWS,St. Francis City Hall,23340 Cree Street NW,55070,St. Francis,05,MN,4439,St. Francis City Council,MN,Anoka
+MN1020029,Spring Lake Park,CWS,Spring Lake Park City Hall,1301 81st Avenue NE,55432,Spring Lake Park,05,MN,6513,Spring Lake Park City Council,MN,Anoka
+MN1020030,"Linwood Terrace, Partnership",CWS,21765-92 Viking Boulevard NE,,55092,Wyoming,05,MN,290,"Linwood Terrace, Inc.",MN,Anoka
+MN1020031,Fridley,CWS,Commons W.T.P.,6431 University Avenue NE,55432,Fridley,05,MN,27476,Fridley City Council,MN,Anoka
+MN1020032,Lexington,CWS,Lexington City Hall,9180 Lexington Avenue,55014,Lexington,05,MN,2068,Lexington City Council,MN,Anoka
+MN1020033,Hilltop,CWS,City Hall,4555 Jackson Street NE,55421-2494,Hilltop,05,MN,780,Hilltop City Council,MN,Anoka
+MN1020034,Andover,CWS,Andover City Hall,1685 Crosstown Boulevard NW,55304-2612,Andover,05,MN,20355,Andover City Council,MN,Anoka
+MN1020035,Ramsey,CWS,Ramsey City Hall,7550 Sunwood Drive,55303,Ramsey,05,MN,13077,Ramsey City Council,MN,Anoka
+MN1020036,Centerville,CWS,Centerville City Hall,1880 Main Street,55038,Centerville,05,MN,4275,Centerville City Council,MN,Anoka
+MN1020037,Willows of Ham Lake,CWS,845 Bunker Lake Boulevard NE,,55304,Ham Lake,05,MN,69,Willows of Ham Lake,MN,Anoka
+MN1020038,Majestic Greens LLC Senior Living (Apt.),CWS,320 Edgewood Ave N,,55427,Golden Valley,05,MN,67,Majestic Greens LLC,MN,Anoka
+MN1020040,Bar None Ranch,CWS,Bar None Ranch,22426 St. Francis Boulevard,55303,Anoka,05,MN,60,Volunteers of America,MN,Anoka
+MN1020041,Ham Lake Apartments,CWS,PO Box 48104,,55448-0104,Minneapolis,05,MN,89,,MN,Anoka
+MN1020042,East Bethel,CWS,2241 - 221st Avenue NE,,55011,East Bethel,05,MN,157,East Bethel City Council,MN,Anoka
+MN1020044,Oak Grove,CWS,19900 Nightingale Street NW,,55011-9182,Oak Grove,05,MN,516,City of Oak Grove,MN,Anoka
+MN1030001,Audubon,CWS,Audubon City Hall,P.O. Box 263,56511,Audubon,05,MN,519,Audubon City Council,MN,Becker
+MN1030003,Twin Haven Estates,CWS,Anderson Homes of Sebeka,"c/o Chris Anderson, Bookeeper",56477,Sebeka,05,MN,200,Twin Haven Estates,MN,Becker
+MN1030004,Callaway,CWS,Callaway City Hall,P.O. Box 116,56521,Callaway,05,MN,234,Callaway City Council,MN,Becker
+MN1030005,Detroit Lakes,CWS,Detroit Lakes City Hall,"1025 Roosevelt Avenue, Box 647",56502,Detroit Lakes,05,MN,9200,Detroit Lakes City Council,MN,Becker
+MN1030006,Oak Grove Mobile Home Park,CWS,21514 County Highway 6,,56501-7003,Detroit Lakes,05,MN,60,Oak Grove Mobile Home Park,MN,Becker
+MN1030010,Kountry Manor / Floyd Lake MHPs,CWS,"Park Core, LLP",P.O. Box 1363,56502-1363,Detroit Lakes,05,MN,80,Kountry Manor Mobile Home Park,MN,Becker
+MN1030014,Frazee,CWS,Frazee City Hall,P.O. Box 387,56544,Frazee,05,MN,1410,Frazee City Council,MN,Becker
+MN1030016,Lake Park,CWS,401 Lake Street,P.O. Box 239,56554,Lake Park,05,MN,797,Lake Park City Council,MN,Becker
+MN1030022,Brandy Lake Estates,CWS,25483  Brandy Lake Boulevard,,56501,Detroit Lakes,05,MN,40,Brandy Lake Estates,MN,Becker
+MN1030025,Ogema,CWS,P.O. Box 158,,56569-0052,Ogema,05,MN,168,Ogema City Council,MN,Becker
+MN1040001,Elpine Village,CWS,5653 Alps Ct. NW,Lot 42,56601,Bemidji,05,MN,125,Elpine Village,MN,Beltrami
+MN1040002,Bemidji,CWS,Bemidji City Hall,317 Fourth Street NW,56601-3116,Bemidji,05,MN,15549,Bemidji City Council,MN,Beltrami
+MN1040007,Birchlane Trailer Court,CWS,507 Jefferson Avenue NW  #53,,56601,Bemidji,05,MN,80,Birchlane Trailer Court,MN,Beltrami
+MN1040009,Little Norway Trailer Court,CWS,8635 Chamberlain Lane NW,,56601,Bemidji,05,MN,60,Little Norway Trailer Court,MN,Beltrami
+MN1040014,Blackduck,CWS,Blackduck City Hall,P.O. Box 380,56630,Blackduck,05,MN,784,Blackduck City Council,MN,Beltrami
+MN1040017,Kelliher,CWS,217 Main Street East,,56650-0256,Kelliher,05,MN,267,Kelliher City Council,MN,Beltrami
+MN1040024,Northern Trailer Park,CWS,13900 Irvine Avenue NW,,56601,Bemidji,05,MN,40,Beltrami Ironwood Investments,MN,Beltrami
+MN1040026,Secluded Acres,CWS,3012 Madison Avenue SW,,56601,Bemidji,05,MN,60,Secluded Acres,MN,Beltrami
+MN1040027,Woodland Mobile Home Park,CWS,13900 Irvine Avenue NW,,56601,Bemidji,05,MN,70,Beltrami Ironwood Investments,MN,Beltrami
+MN1040030,Grass Lake Mobile Home Park,CWS,"5066 Theater Lane NW, #35",,56601,Bemidji,05,MN,80,Grass Lake Mobile Home Park,MN,Beltrami
+MN1040031,Oak Hills Fellowship Bible College,CWS,Oak Hills Bible College,1600 Oak Hills Road SW,56601,Bemidji,05,MN,225,Oak Hills Fellowship,MN,Beltrami
+MN1040032,Pine Valley Mobile Home Park,CWS,13900 Irvine Avenue NW,,56601,Bemidji,05,MN,60,Pine Valley Mobile Home Park,MN,Beltrami
+MN1040033,Country Lane Mobile Home Park,CWS,507 Jefferson Avenue NW,,56601,Bemidji,05,MN,35,Country Lane Mobile Home Park,MN,Beltrami
+MN1040034,Movil Lake Trailer Park,CWS,225 South Movil Lake Road NW,LOT 225,56601,Bemidji,05,MN,50,Brian Ball,MN,Beltrami
+MN1040035,Roosevelt Manor,CWS,Roosevelt Manor,c/o Mr. Gary Allen,56601,Bemidji,05,MN,60,,MN,Beltrami
+MN1040036,Cottage Creek Estates,CWS,4538 Platt Dr. N.W.,,56601,Bemidji,05,MN,35,Cottage Creek Estates,MN,Beltrami
+MN1050001,Foley,CWS,City Administrator,P.O. Box 709,56329-0709,Foley,05,MN,2652,Foley City Council,MN,Benton
+MN1050002,Rice,CWS,Rice City Hall,P.O. Box 179,56367,Rice,05,MN,1279,Rice City Council,MN,Benton
+MN1050003,Rockwood Estates,CWS,Sherrock Properties/5005 Properties Inc.,5005 Old Cedar Lake Road,55416,St. Louis Park,05,MN,400,"Gary F. Wrobel, General Manager",MN,Benton
+MN1050004,Sauk Rapids,CWS,Sauk Rapids City Hall,250 Summit Avenue North,56379,Sauk Rapids,05,MN,13083,Sauk Rapids City Council,MN,Benton
+MN1050005,Fischers Garden Mobile Home Park,CWS,1945 North Benton Drive,P.O. Box 718,56379-0718,Sauk Rapids,05,MN,220,Fischers Garden Mobile Home Park,MN,Benton
+MN1050009,Benton Utilities LLC,CWS,3636 Quail Road,,56379,Sauk Rapids,05,MN,120,Benton Utilities LLC,MN,Benton
+MN1050010,The Cove Utility Association,CWS,P.O. Box 736,,56379,Sauk Rapids,05,MN,55,The Cove Homeowners Association,MN,Benton
+MN1050011,Lake Andrew Development,CWS,708 Cleveland Avenue SW,Suite 200,55112,New Brighton,05,MN,80,Scott Jarnot,MN,Benton
+MN1060002,Beardsley,CWS,Beardsley City Hall,P.O. Box 238,56211,Beardsley,05,MN,225,Beardsley City Council,MN,Big Stone
+MN1060003,Clinton,CWS,111 Main Street,P.O. Box 6,56225-0006,Clinton,05,MN,450,Clinton City Council,MN,Big Stone
+MN1060004,Correll,CWS,109 Highway 7 East,Suite 100,56227,Correll,05,MN,39,Correll City Council,MN,Big Stone
+MN1060005,Graceville,CWS,Graceville City Hall,P.O. Box 156,56240-0156,Graceville,05,MN,565,Graceville City Council,MN,Big Stone
+MN1060006,Johnson,CWS,Johnson City Hall,205 Third Street,56236-9515,Johnson,05,MN,32,Johnson City Council,MN,Big Stone
+MN1060007,Odessa,CWS,P.O. Box 67,,56276-0067,Odessa,05,MN,113,Odessa City Council,MN,Big Stone
+MN1060008,Ortonville,CWS,Ortonville City Hall,315 Madison Avenue,56278-1416,Ortonville,05,MN,1910,Ortonville City Council,MN,Big Stone
+MN1060009,Big Stone Hutterite,CWS,75217 Big Stone Colony Road West,,56240-9734,Graceville,05,MN,75,Big Stone Hutterite,MN,Big Stone
+MN1060010,Lismore Colony,CWS,80391 County Road 60,,56225,Clinton,05,MN,77,Lismore Colony,MN,Big Stone
+MN1070001,Amboy,CWS,Amboy City Hall,P.O. Box 250,56010-0250,Amboy,05,MN,534,Amboy City Council,MN,Blue Earth
+MN1070002,Eagle Lake,CWS,Eagle Lake City Hall,P.O. Box 159,56024-0159,Eagle Lake,05,MN,2520,Eagle Lake City Council,MN,Blue Earth
+MN1070005,Good Thunder,CWS,Good Thunder City Hall,P.O. Box 97,56037-0097,Good Thunder,05,MN,583,Good Thunder City Council,MN,Blue Earth
+MN1070006,Lake Crystal,CWS,Lake Crystal City Hall,P.O. Box 86,56055-0086,Lake Crystal,05,MN,2554,Lake Crystal Public Utilities Commission,MN,Blue Earth
+MN1070007,Madison Lake,CWS,Madison Lake City Hall,"525 Main Street, P.O. Box 295",56063-0295,Madison Lake,05,MN,1017,Madison Lake City Council,MN,Blue Earth
+MN1070009,Mankato,CWS,Mankato City Hall,PO Box 3368,56001,Mankato,05,MN,42803,Mankato City Council,MN,Blue Earth
+MN1070012,Hillcrest Health Care Center,CWS,714 South Bend Avenue,,56001,Mankato,05,MN,94,Hillcrest Health Care Center,MN,Blue Earth
+MN1070013,Mapleton,CWS,Mapleton City Hall,P.O. Box 366,56065-0366,Mapleton,05,MN,1756,Mapleton City Council,MN,Blue Earth
+MN1070015,Pemberton,CWS,Pemberton City Hall,,56078-0036,Pemberton,05,MN,247,Pemberton City Council,MN,Blue Earth
+MN1070016,"Rapidan Development Company, Inc.",CWS,19127 Rapidan Avenue,,56001,Mankato,05,MN,164,"Rapidan Development Company, Inc.",MN,Blue Earth
+MN1070017,Saint Clair,CWS,St. Clair City Hall,P.O. Box 97,56080-0097,St. Clair,05,MN,846,St. Clair City Council,MN,Blue Earth
+MN1070018,Skyline,CWS,Skyline City Hall,164 South Skyline Drive,56001,Mankato,05,MN,289,Skyline City Council,MN,Blue Earth
+MN1070019,Vernon Center,CWS,Vernon Center City Hall,101 Oak Street North,56090-0385,Vernon Center,05,MN,332,Vernon Center City Council,MN,Blue Earth
+MN1070022,Riverbend Estates,CWS,P.O. Box 2155,,56002,North Mankato,05,MN,60,Riverbend Estates,MN,Blue Earth
+MN1070024,School Sisters of Notre Dame,CWS,170 Good Counsel Drive,,56001-3138,Mankato,05,MN,140,School Sisters of Notre Dame,MN,Blue Earth
+MN1070025,Terrace View East Condominium Assoc.,CWS,102 Terrace View,,56001,Mankato,05,MN,25,Terrace View East Condominium Association,MN,Blue Earth
+MN1070026,South Bend Township,CWS,306 South Mckinzie,,56001,Mankato,05,MN,325,South Bend Township,MN,Blue Earth
+MN1080001,Comfrey,CWS,City Hall,P.O. Box 175,56019-0175,Comfrey,05,MN,402,Comfrey City Council,MN,Brown
+MN1080002,Hanska,CWS,Hanska City Hall,P.O. Box 91,56041-0091,Hanska,05,MN,393,Hanska City Council,MN,Brown
+MN1080003,New Ulm,CWS,310 First North Street,,56073,New Ulm,05,MN,13342,New Ulm Public Utilities Commission,MN,Brown
+MN1080004,Skyview Mobile Villa,CWS,P.O. Box 1865,,56002,North Mankato,05,MN,90,Skyview Mobile Villa,MN,Brown
+MN1080005,Sleepy Eye,CWS,200 Mail Street East,,56085,Sleepy Eye,05,MN,3599,Sleepy Eye Public Utilities Commission,MN,Brown
+MN5610132,Knapp Memorial Park,TNCWS,P.O. Box 7,,56385,Villard,05,MN,25,Knapp Memorial Park,MN,Pope
+MN5610168,Minnewaska School,NTNCWS,25122 Highway 28 West,,56334,Glenwood,05,MN,800,Minnewaska School,MN,Pope
+MN5610169,Nora Lutheran Church,TNCWS,P.O. Box 69,,56343,Kensington,05,MN,100,Nora Lutheran Church,MN,Pope
+MN5610448,Glacial Lakes State Park,TNCWS,25022 County Road 41,,56381,Starbuck,05,MN,100,Glacial Lakes State Park,MN,Pope
+MN5610456,Office Restaurant and Bar,TNCWS,5738 East Lake Carlos Drive NE,,56308,Alexandria,05,MN,50,Office Restaurant and Bar,MN,Pope
+MN5610460,Thors Camping and Cabins,TNCWS,320 Sixth Avenue SE,,56334,Glenwood,05,MN,80,Thors Camping and Cabins,MN,Pope
+MN5610461,Waskawood Resort,TNCWS,23488 North Lakeshore Drive,,56334,Glenwood,05,MN,40,Waskawood Resort,MN,Pope
+MN5610463,Maple Island Resort,TNCWS,13030 Maple Island Drive SE,,56334,Glenwood,05,MN,56,Maple Island Resort,MN,Pope
+MN5610464,Peters%27 Sunset Beach Resort,TNCWS,20000 South Lakeshore Drive,,56334,Glenwood,05,MN,50,Peters%27 Sunset Beach Resort,MN,Pope
+MN5610466,Pelican Lake Estates,TNCWS,17791 - 247th Avenue,,56334,Glenwood,05,MN,25,Pelican Lake Estates Co-op,MN,Pope
+MN5610470,Green Valley Resort Association,TNCWS,13256 Owatonna Court NE,,55449,Blaine,05,MN,146,Green Valley Resort Association,MN,Pope
+MN5610474,Captain%27s Bar and Grill,TNCWS,23583 North Lakeshore Drive,,56334,Glenwood,05,MN,200,Captain%27s Bar and Grill,MN,Pope
+MN5610475,St. John Nepomuk Catholic Church,TNCWS,25890 - 110th Street,,56349,Lowry,05,MN,120,St. John Nepomuk Catholic Church,MN,Pope
+MN5610476,Glacial Ridge Veterinary Clinic,TNCWS,16159 State Highway 29,,56334,Glenwood,05,MN,30,Glacial Ridge Veterinary Clinic,MN,Pope
+MN5610477,Hagen%27s Repair Inc.,TNCWS,20413 State Highway 28 East,,56334,Glenwood,05,MN,25,Hagen%27s Repair Inc.,MN,Pope
+MN5610478,Minnewaska House,TNCWS,24895 State Highway 28,,56334,Glenwood,05,MN,50,Minnewaska House,MN,Pope
+MN5610480,Hairitage Square,TNCWS,13451 Quiet Cove Road,,56385,Villard,05,MN,40,Hairitage Square,MN,Pope
+MN5610481,Rodina Golf Course,TNCWS,997 Maple Lake Road SE,,56334,Glenwood,05,MN,25,Rodina Golf Course,MN,Pope
+MN5610482,Lake Haven Mennonite Church %26 School,NTNCWS,P.O. Box 293,,56323,Cyrus,05,MN,75,Lake Haven Mennonite Church %26 School,MN,Pope
+MN5610485,Koep%27s Glenwood Corner,TNCWS,15800 State Highway 29,,56334,Glenwood,05,MN,30,Koep%27s Glenwood Corner,MN,Pope
+MN5610486,Pelican RV Resort Inc.,TNCWS,17486 North Pelican Lake Road,,56334,Glenwood,05,MN,130,"Pelican RV Resort, Inc.",MN,Pope
+MN5610487,Minnewaska School - Athletic Fields,TNCWS,25122 Highway 28 West,,56334,Glenwood,05,MN,50,Minnewaska Area High School,MN,Pope
+MN5610488,Restoration Church,TNCWS,18151 County Road 21,,56334,Glenwood,05,MN,35,Restoration Church,MN,Pope
+MN5610494,Lazy Pines RV Park,TNCWS,21977 - 190th Street,,56334,Glenwood,05,MN,25,Lazy Pines RV Park,MN,Pope
+MN5610495,"Little Steps Childcare, LLC",TNCWS,24905 Scottys Drive,,56334,Glenwood,05,MN,25,"Little Steps Childcare, LLC",MN,Pope
+MN5610496,Villard United Methodist Church,TNCWS,15444 - 160th Street,,56385,Villard,05,MN,65,Villard United Methodist Church,MN,Pope
+MN5620002,North Oaks East Recreation Center,NTNCWS,"100 Village Center Drive, Ste 240",,55127,North Oaks,05,MN,40,North Oaks Home Owners Association,MN,Ramsey
+MN5620020,Barnett Chrysler-Jeep-Kia (Main Bldg.),NTNCWS,3610 Highway 61 and County Road E,,55110,Gem Lake,05,MN,70,Barnett Chrysler-Jeep-Kia,MN,Ramsey
+MN5620022,"NewTrax, Inc.",TNCWS,3610 Highway 61 North and County Road E,,55110,Gem Lake,05,MN,25,Barnett Chrysler-Jeep-Kia,MN,Ramsey
+MN5620023,Waldoch Properties/Hoffman Corners,TNCWS,13821 Lake Drive,,55025,Forest Lake,05,MN,30,Waldoch Custom Centers - Forest Lake,MN,Ramsey
+MN5620097,Schreier Cabinets,TNCWS,99 South Owasso West,,55117,Little Canada,05,MN,25,Schreier Cabinets,MN,Ramsey
+MN5620202,"Urban Organics St. Paul, LLC",TNCWS,543 James Avenue,,55102,St. Paul,05,MN,120,"Urban Organics St. Paul, LLC",MN,Ramsey
+MN5620210,Kessler and Maguire Funeral Home,TNCWS,640 West Seventh Street,,55102,St. Paul,05,MN,30,Vertin Company,MN,Ramsey
+MN5620212,Pearson%27s Candy Company,NTNCWS,2140 7th Street West,,55116,St. Paul,05,MN,160,Pearson%27s Candy Company,MN,Ramsey
+MN5620285,Dale%27s Laundromat,TNCWS,2545 Burl Avenue,,54016,Hudson,05,MN,80,Dale%27s Laundromat,WI,Ramsey
+MN5620340,"Saputo Dairy Foods USA, LLC",NTNCWS,Environmental Health %26 Safety Manager,4041 Highway 61,55110,White Bear Lake,05,MN,120,"Saputo Dairy Foods USA, LLC",MN,Ramsey
+MN5620372,St. Paul Water Utility- Watergate Marina,NTNCWS,1100 Hamline Avenue North,,55108,St. Paul,05,MN,130,St. Paul Water Utility- Watergate Marina,MN,Ramsey
+MN5620373,Canadian Pacific Railroad-St. Paul Yard,NTNCWS,"120 South Sixth Street, Suite 900",,55402,Minneapolis,05,MN,75,Canadian Pacific Railroad- St. Paul Yard,MN,Ramsey
+MN5620516,Amidon Graphics,NTNCWS,1966 Benson Avenue,,55116,St. Paul,05,MN,110,Amidon Graphics,MN,Ramsey
+MN5620518,Trike Shop,TNCWS,3744 Scheuneman Road,,55110,Gem Lake,05,MN,25,The Trike Shop,MN,Ramsey
+MN5620519,New Horizon Academy,NTNCWS,586 Carlton Street,,55119,Maplewood,05,MN,165,New Horizon Academy,MN,Ramsey
+MN5620522,North Oaks Golf Club - Clubhouse,NTNCWS,54 East Oaks Road,,55127,North Oaks,05,MN,250,North Oaks Golf Club,MN,Ramsey
+MN5620523,White Bear Floral Shop,TNCWS,3550 West Hoffman Road,,55110,White Bear Lake,05,MN,100,White Bear Floral Shop,MN,Ramsey
+MN5620529,Ramsey County Vadnais-Snail Lake Park,TNCWS,Mr. William J. Schneider,2015 North Vandyke Street,55109,Maplewood,05,MN,200,"Ramsey County Park, Snail Lake",MN,Ramsey
+MN5620532,Structural Wood Corporation,NTNCWS,4000 Labore Road,,55110,Vadnais Heights,05,MN,55,Structural Wood Corporation,MN,Ramsey
+MN5620537,Four Seasons,TNCWS,15349 Rendova Street NE,,55304,Ham Lake,05,MN,50,Four Seasons,MN,Ramsey
+MN5620791,North Oaks - West Recreation Center,TNCWS,"100 Village Center Drive, Ste 240",,55127,North Oaks,05,MN,100,North Oaks Home Owners Association,MN,Ramsey
+MN5620792,Manitou Ridge Golf Course,TNCWS,3200 North McKnight Road,,55110,White Bear Lake,05,MN,250,Manitou Ridge Golf Course,MN,Ramsey
+MN5620811,Vadnais Inn,TNCWS,3364 North Rice Street,,55126,Vadnais Heights,05,MN,200,Vadnais Inn,MN,Ramsey
+MN5620812,Enterprise Car Rental,TNCWS,1567 East County Road E,,55110,Gem Lake,05,MN,30,Enterprise Car Rental,MN,Ramsey
+MN5620813,Black Sea Restaurant,TNCWS,1581 County Road E East,,55110,Gem Lake,05,MN,25,Vera Auto Sales,MN,Ramsey
+MN5620817,Big Ten Supper Club,TNCWS,4703 Highway 10,,55112,Arden Hills,05,MN,200,Big Ten Supper Club,MN,Ramsey
+MN5620826,Gem Lake Hills Golf Course,TNCWS,4039 Scheuneman Road,,55110,Gem Lake,05,MN,150,Gem Lake Hills Golf Course,MN,Ramsey
+MN5620839,North Oaks Beach,TNCWS,One Pleasant Lake Road,,55127,North Oaks,05,MN,50,North Oaks Home Owners Association,MN,Ramsey
+MN5620844,North Oaks Golf Course,TNCWS,54 East Oaks Road,,55127,North Oaks,05,MN,300,North Oaks Golf Course,MN,Ramsey
+MN5620846,Spooner Park - City of Little Canada,TNCWS,515 Little Canada Road East,,55117,Little Canada,05,MN,75,City of Little Canada,MN,Ramsey
+MN5620849,Nelson Marine,TNCWS,3800 Highway 61 East,,55110,Gem Lake,05,MN,25,Nelson Marine,MN,Ramsey
+MN5620850,Tamarack Nature Center - Destination Dis,TNCWS,2015 North Vandyke Street,,55109,Maplewood,05,MN,25,Tamarack Nature Center-Destination Discovery,MN,Ramsey
+MN5620851,Church of God Seventh Day,TNCWS,1628 Point Douglas Road South,,55119,St. Paul,05,MN,25,Church of God Seventh Day,MN,Ramsey
+MN5630002,Old Crossing Treaty Wayside Park,TNCWS,18806 - 150th Avenue SW,,56750,Red Lake Falls,05,MN,25,Old Crossing Treaty Wayside Park,MN,Red Lake
+MN5630006,St. Joseph%27s Catholic Church,TNCWS,P.O. Box 400,,56750,Red Lake Falls,05,MN,100,St. Joseph%27s Catholic Church - Brooks,MN,Red Lake
+MN5630016,Minnesota Wheat Growers,TNCWS,2600 Wheat Drive,,56750,Red Lake Falls,05,MN,25,Minnesota Wheat Growers,MN,Red Lake
+MN5630023,Cozy Bar and Grill,TNCWS,318 Main Street,,56715,Brooks,05,MN,25,Cozy Bar and Grill,MN,Red Lake
+MN5630024,Salem Lutheran Church,TNCWS,PO Box 56,,56742,Oklee,05,MN,50,Salem Lutheran Church,MN,Red Lake
+MN5630025,Brooks Town Hall,TNCWS,200 Main Street,PO Box 98,56715,Brooks,05,MN,25,Brooks Townhall,MN,Red Lake
+MN5630026,Red Lake County Co-op,TNCWS,701 US Highway 59,,56715,Brooks,05,MN,25,Red Lake County Co-op,MN,Red Lake
+MN5630027,Plummer Cenex Co-op,TNCWS,PO Box 202,,56748,Plummer,05,MN,75,Red River Ag,MN,Red Lake
+MN5640006,Bethany Lutheran Church,TNCWS,39890 - 260th Street,,56266,Morgan,05,MN,78,Bethany Lutheran Church,MN,Redwood
+MN5640014,Fox Brothers,TNCWS,P.O. Box 157,,56083,Sanborn,05,MN,25,Fox Brothers,MN,Redwood
+MN5640017,Kibble Equipment,TNCWS,P.O. Box 250,,56283,Redwood Falls,05,MN,25,Kibble Equipment,MN,Redwood
+MN5640019,Ecowater Systems,NTNCWS,1450 East Bridge Street,,56283,Redwood Falls,05,MN,25,Ecowater Systems,MN,Redwood
+MN5640021,Central Bi-Products Farmers,NTNCWS,P.O. Box 319,,56283,Redwood Falls,05,MN,85,"Central Bi-Products, Farmers Union Mktg.",MN,Redwood
+MN5640028,Trinity Lutheran Church,TNCWS,20479 Laser Avenue,,56083,Sanborn,05,MN,75,,MN,Redwood
+MN5640029,Kuhar Park,TNCWS,112 Second Avenue East,,56152,Lamberton,05,MN,25,"Kuhar Park, City of Lamberton",MN,Redwood
+MN5640030,Rock Dell Evangelical Lutheran Church,TNCWS,P.O. Box 187,,56214,Belview,05,MN,200,Rock Dell Evangelical Lutheran Church,MN,Redwood
+MN5640031,Moccasin Springs Well Association,NTNCWS,34353 Wapasha Trail,,56283,Redwood Falls,05,MN,75,Moccasin Springs Well Association,MN,Redwood
+MN5640151,J %26 J%27s Corner Coral,TNCWS,32929 - 140th Street,,56083,Sanborn,05,MN,25,J %26 J%27s Corner Coral,MN,Redwood
+MN5640167,Sundown Lutheran Church,TNCWS,17691 Nature Avenue,,56087,Springfield,05,MN,110,Dan Hensch,MN,Redwood
+MN5640169,Expressway Sanborn,TNCWS,Brent Staples,PO Box 127,56083,Sanborn,05,MN,25,Expressway Sanborn,MN,Redwood
+MN5640171,Meadowland Farmer%27s Co-op,TNCWS,PO Box 338,,56152,Lamberton,05,MN,100,Meadowland Farmers Co-op,MN,Redwood
+MN5640172,Dacotah Ridge Golf Course,TNCWS,30584 County Highway 24,,56270,Morton,05,MN,25,Dacotah Ridge Golf Course,MN,Redwood
+MN5640173,Gillfillan Estate/Farm Fest,TNCWS,28260 State Highway 67,,56283,Redwood Falls,05,MN,25,Gillfillan Estate/Farm Fest,MN,Redwood
+MN5640174,Kingdom Hall of Jehovah%27s Witnesses,TNCWS,729 East Second Street,,56283,Redwood Falls,05,MN,30,Kingdom Hall of Jehovah%27s Witnesses,MN,Redwood
+MN5640175,Kerkhoff Auction and Real Estate,TNCWS,1500 East Bridge Street,,56283,Redwood Falls,05,MN,25,Kerkhoff Auction and Real Estate,MN,Redwood
+MN5640176,Monsanto Company,NTNCWS,800 North Linbergh Boulevard,,63167,St. Louis,05,MN,30,Monsanto Company,MO,Redwood
+MN5640177,Grandview Valley Winery,TNCWS,42703 Grandview Avenue,,56214,Belview,05,MN,25,Grandview Valley Winery,MN,Redwood
+MN5650004,Trinity Evangelical Lutheran Church,TNCWS,88320 County Road 22,,55342,Hector,05,MN,150,Trinity Evangelical Lutheran Church,MN,Renville
+MN5650007,Emmanuel Lutheran Church,TNCWS,68364 County Road 27,,55332,Fairfax,05,MN,240,Emmanuel Lutheran Church,MN,Renville
+MN5650008,Mayflower Country Club,TNCWS,46321 County Road 39,,55332,Fairfax,05,MN,25,Mayflower Country Club,MN,Renville
+MN5650009,Oakdale Country Club,TNCWS,55106 County Road 38,,55314,Buffalo Lake,05,MN,25,Oakdale Country Club,MN,Renville
+MN5650011,Wang Lutheran Church,TNCWS,"12781 - 890th Avenue, No. 216",,56260,Maynard,05,MN,50,Wang Lutheran Church,MN,Renville
+MN5650012,"Midwest Machinery, Inc.",TNCWS,P.O. Box 197,,55385,Stewart,05,MN,25,"Midwest Machinery, Inc.",MN,Renville
+MN5650022,Central Lutheran Church,TNCWS,P.O. Box 595,,55332,Fairfax,05,MN,200,Central Lutheran Church,MN,Renville
+MN5650026,Middle Creek United Methodist Church,TNCWS,72997 County Road 21,,56283,Redwood Falls,05,MN,101,Middle Creek United Methodist Church,MN,Renville
+MN5650027,Swedlanda Evangelical Lutheran Church,TNCWS,73951 County Road 16,,55342,Hector,05,MN,280,Swedlanda Evangelical Lutheran Church,MN,Renville
+MN5650028,Palmyra Covenant Church,TNCWS,44031 County Road 4,,55342,Hector,05,MN,100,Palmyra Covenant Church,MN,Renville
+MN5650029,Birch Coulee County Park,TNCWS,105 South Fifth Strreet,Suite 311,56277,Olivia,05,MN,25,Birch Coulee County Park,MN,Renville
+MN5650033,Ebenezer Presbyterian Church,TNCWS,86581 County Road 6,,56284,Renville,05,MN,225,Ebenezer Presbyterian Church,MN,Renville
+MN5650034,Hawk Creek Evangelical Lutheran Church,TNCWS,87709 - 150th Street,,56285,Sacred Heart,05,MN,70,Hawk Creek Evangelical,MN,Renville
+MN5650036,Southern Minnesota Beet Sugar Co-op,NTNCWS,PO Box 500,,56284,Renville,05,MN,343,Southern Minnesota Beet Sugar Co-op,MN,Renville
+MN5650046,Lake Allie Park,TNCWS,Renville County Government Center,"105 S. Fifth Street, Suite 319",56277-1481,Olivia,05,MN,25,Renville County Parks,MN,Renville
+MN5820282,Green Acres Recreation,TNCWS,8465 Demontreville Trail North,,55042,Lake Elmo,05,MN,800,"Green Acres, Inc.",MN,Washington
+MN5820283,Selma%27s Ice Cream Parlour,TNCWS,PO Box 130,,55001,Afton,05,MN,200,Selma%27s Ice Cream Parlour,MN,Washington
+MN5820293,Gasthaus Bavarian Hunter,TNCWS,8390 Lofton Avenue North,,55082,Stillwater,05,MN,120,Gasthaus Bavarian Hunter,MN,Washington
+MN5820301,Willie%27s Hidden Harbor,TNCWS,388 Ninth Avenue West,,55071,St. Paul,05,MN,100,Willie%27s Hidden Harbor,MN,Washington
+MN5820372,Blacksmith Lounge,TNCWS,17205 Forest Boulevard,,55038,Hugo,05,MN,150,Blacksmith Lounge,MN,Washington
+MN5820373,Camp Galilee,TNCWS,PO Box 120927,,55112,St. Paul,05,MN,400,"MN District, Inc.",MN,Washington
+MN5820392,"Pioneer Tank Lines, Inc.",TNCWS,12501 Hudson Boulevard,,55001,Afton,05,MN,25,"Pioneer Tank Lines, Inc.",MN,Washington
+MN5820394,"Hardrives, Inc",TNCWS,14475 Quiram Drive,,55374,Rogers,05,MN,50,"Hardrives, Inc",MN,Washington
+MN5820395,New Life Evangelical Church,TNCWS,P. O. Box 546,,55033,Hastings,05,MN,150,New Life Evangelical Church,MN,Washington
+MN5820396,Salem Evangelical Lutheran Church,NTNCWS,7825 Bailey Road,,55125,Woodbury,05,MN,30,Salem Evangelical Lutheran Church,MN,Washington
+MN5820397,"Chandler Exhibits, Inc.",NTNCWS,13523 Hudson Road,,55001,Afton,05,MN,60,"Chandler Exhibits, Inc.",MN,Washington
+MN5820400,The Harbor,NTNCWS,PO Box 54,,55033,Hastings,05,MN,175,The Harbor,MN,Washington
+MN5820401,Woodbury Church of Christ,TNCWS,4920 Woodbury Drive,,55125,Woodbury,05,MN,100,Woodbury Church of Christ,MN,Washington
+MN5820403,Woodbury Lutheran - Oakhill Campus,TNCWS,9050 - 60th Street North,,55082,Stillwater,05,MN,200,Woodbury Lutheran,MN,Washington
+MN5820405,St. Lucas Community Church,TNCWS,1195 Manning Avenue North,,55042,Lake Elmo,05,MN,100,St. Lucas Community Church,MN,Washington
+MN5820406,Afton City Hall,TNCWS,3033 St. Croix Trail South,PO Box 219,55001,Afton,05,MN,25,Afton City Hall,MN,Washington
+MN5820407,St. Croix Weigh Station,TNCWS,MNDOT-Transportation Building,"395 John Ireland Boulevard, MS-690",55155,St. Paul,05,MN,25,,MN,Washington
+MN5820408,Afton Marina and Yacht Club,TNCWS,16071 - 31st Street South,P.O. Box 67,55001,Afton,05,MN,25,Afton Marina and Yacht Club,MN,Washington
+MN5820409,St. Peter Lutheran Church/Parish Hall,TNCWS,880 Neal Avenue South,,55001,Afton,05,MN,25,St. Peter%27s Lutheran Church,MN,Washington
+MN5820412,Lighthouse Baptist Church,TNCWS,9979 - 80th Street South,,55016,Cottage Grove,05,MN,140,Lighthouse Baptist Church,MN,Washington
+MN5820413,St. Croix Valley Cong. Jehovah Witnesses,TNCWS,540 Eben Court,,55082,Stillwater,05,MN,150,St. Croix Valley Congregation Jehovah%27s Witnesses,MN,Washington
+MN5820414,U.S. Bank,TNCWS,6001 Stillwater Boulevard North,,55082,Stillwater,05,MN,25,U.S. Bank,MN,Washington
+MN5820415,3M Cottage Grove,NTNCWS,"10746 Innovation Road, Building 22-1",,55016,Cottage Grove,05,MN,740,3M Cottage Grove,MN,Washington
+MN5820418,Bailey Nursery,NTNCWS,6750-103rd Street,,55016,Cottage Grove,05,MN,60,Bailey Nursery,MN,Washington
+MN5820419,Lamar Baseball Fields,TNCWS,8635 West Point Douglas Drive,,55016,Cottage Grove,05,MN,50,Cottage Grove Public Works,MN,Washington
+MN5820421,Oak-Land Middle School,NTNCWS,1875 South Greeley,,55082,Stillwater,05,MN,1099,Oak-Land Middle School,MN,Washington
+MN5820423,Grace Baptist Church,TNCWS,12721 - 75th Street North,,55082,Stillwater,05,MN,80,Grace Baptist Church,MN,Washington
+MN5820426,American Polywater Corporation,NTNCWS,11222 60th Street North,,55082-0053,Stillwater,05,MN,38,American Polywater Corporation,MN,Washington
+MN5820427,"Bailey Nurseries, Inc., - Main Office",NTNCWS,1325 Bailey Road,,55119,Newport,05,MN,70,"Bailey Nurseries, Inc., - Main Office",MN,Washington
+MN5820429,Common Ground Church,TNCWS,10240 North Stillwater Boulevard,,55042,Lake Elmo,05,MN,90,Common Ground Church,MN,Washington
+MN5820431,Cottage Grove Ravine Regional Park,TNCWS,11660 Myeron Road North,,55082,Stillwater,05,MN,25,Washington County HELM,MN,Washington
+MN5820433,Point Douglas Park,TNCWS,11660 Myeron Road North,,55082,Stillwater,05,MN,25,Washington County HELM,MN,Washington
+MN5820434,LEPR-Contact Station,TNCWS,11660 Myeron Road North,,55082,Stillwater,05,MN,25,Washington County HELM,MN,Washington
+MN5820442,Royal Golf Club,TNCWS,941 Hillwind Road NE Suite 301,,55432,Minneapolis,05,MN,100,Royal Golf Club,MN,Washington
+MN5820445,St. Mary%27s Point Arena,TNCWS,3415 University Avenue,,55114,St. Paul,05,MN,100,,MN,Washington
+MN5820447,Scandia City Office,NTNCWS,14727 - 209th Street North,,55073,Scandia,05,MN,37,Scandia City Office,MN,Washington
+MN5820449,Abrahamson Nurseries,TNCWS,20021 St. Croix Trail North,,55073,Scandia,05,MN,25,Abrahamson Nurseries,MN,Washington
+MN5820454,Hay Lake School Museum,TNCWS,602 North Main Street,PO Box 167,55082,Stillwater,05,MN,25,Hay Lake School Museum,MN,Washington
+MN5820457,"Bailey Nurseries, Inc., Container East",NTNCWS,1325 Bailey Road,,55119,St. Paul,05,MN,110,"Bailey Nurseries, Inc. Container East",MN,Washington
+MN5820461,Dunrovin Retreat Center,TNCWS,15525 St. Croix Trail North,,55047,Marine On St. Croix,05,MN,25,Dunrovin Retreat Center,MN,Washington
+MN5820464,St. Croix Bluffs Regional Park,TNCWS,11660 Myeron Road North,,55082,Stillwater,05,MN,25,Washington County Parks,MN,Washington
+MN5820467,"Serenity Shores, Inc.",TNCWS,2127 Juliet Avenue,,55105,St. Paul,05,MN,30,Northwest Regional Council (IOGT),MN,Washington
+MN5820468,Camp Lakamaga,TNCWS,400 South Robert Street,,55107,St. Paul,05,MN,200,Girl Scout of MN %26 WI River Valleys,MN,Washington
+MN5820474,Disabled Veterans Rest Camp Assn.,TNCWS,11300 - 180th Street North,,55047,Marine On St. Croix,05,MN,300,Disabled Veterans Rest Camp Assn.,MN,Washington
+MN5820476,Stillwater Township Hall and Park,TNCWS,13636 - 90th Street North,,55082,Stillwater,05,MN,25,Stillwater Township Hall and Park,MN,Washington
+MN5820477,William O%27Brien State Park,TNCWS,16821 O%27Brien Trail North,,55047,Marine On St. Croix,05,MN,25,William O%27Brien State Park,MN,Washington
+MN5820478,Afton State Park,TNCWS,6959 Peller Avenue South,,55033,Hastings,05,MN,25,Afton State Park,MN,Washington
+MN5820480,McCarron%27s Building Supply Center,TNCWS,Northeast Highway Eight,PO Box 490,55025,Forest Lake,05,MN,25,"McCarron%27s Building Center, Inc.",MN,Washington
+MN5820484,Lumberyard Pub,TNCWS,1055 Highway 10,,55077,Inver Grove Heights,05,MN,25,Lumberyard Pub,MN,Washington
+MN5820486,River Oaks Municipal Golf Course,TNCWS,11099 West Point Douglas Road,,55016,Cottage Grove,05,MN,200,River Oaks Municipal Golf Course,MN,Washington
+MN5820490,"Cedarhurst, Inc.",TNCWS,6940 Keats Avenue South,,55016,Cottage Grove,05,MN,150,"Cedarhurst, Inc.",MN,Washington
+MN5820495,Afton Apple Orchard,TNCWS,9225 St. Croix Trail South,,55033,Hastings,05,MN,100,Cenco Farms Inc.,MN,Washington
+MN5820496,Stella%27s on 97 Bar and Grill,TNCWS,7050 Scandia Trailer North,,55025,Forest Lake,05,MN,80,Stella%27s on 97 Bar and Grill,MN,Washington
+MN5820497,Old Log Cabin,NTNCWS,9726 Scandia Trail North,,55025,Forest Lake,05,MN,25,Old Log Cabin,MN,Washington
+MN5820499,Sal%27s Angus Grill,TNCWS,12010 Keystone Avenue,,55082,Stillwater,05,MN,150,Sal%27s Angus Grill,MN,Washington
+MN5820501,Withrow Ballroom %26 Event Center,TNCWS,12239 - 62nd Street North,,55082,Stillwater,05,MN,250,Withrow Ballroom %26 Event Center,MN,Washington
+MN5820502,Marine Cafe,TNCWS,9866 Scadia Trail North,,55025,Forest Lake,05,MN,100,Marine Cafe,MN,Washington
+MN5820507,Stillwater Oaks Golf Course,TNCWS,Nicholson-Stillwater Oaks LLC,3145 Ilo Way,55082,Stillwater,05,MN,200,Paul Dinzeo,MN,Washington
+MN5820511,Scandia Plaza,NTNCWS,21020 Ozark Avenue North,,55073,Scandia,05,MN,100,Scandia Plaza,MN,Washington
+MN5820513,Outing Lodge at Pine Point,TNCWS,11661 Myeron Road North,,55082,Stillwater,05,MN,200,"Outing Lodge at Pine Point, Inc.",MN,Washington
+MN5820515,Kinder Korner,NTNCWS,932 Northwest Second Street,,55025,Forest Lake,05,MN,41,Kinder Korner,MN,Washington
+MN5820520,Room for Growing,NTNCWS,4700 Scandia Trail North,,55025,Forest Lake,05,MN,90,Room for Growing,MN,Washington
+MN5820523,Christ the Lord Lutheran Church,TNCWS,9998 - 90th Street,,55016,Cottage Grove,05,MN,25,Christ the Lord Lutheran Church,MN,Washington
+MN5820524,Cedar Ridge,NTNCWS,11400 Julianne Avenue North,,55082,Stillwater,05,MN,45,Cedar Ridge,MN,Washington
+MN5820526,White Bear Yacht Club,TNCWS,56 Dellwood Avenue,,55110,White Bear Lake,05,MN,25,White Bear Yacht Club,MN,Washington
+MN5820528,St. Croix Montessori,NTNCWS,177 Neal Avenue North,,55082,Stillwater,05,MN,74,St. Croix Montessori,MN,Washington
+MN5820529,Washington County Agricultural Society,TNCWS,3393 Neal Avenue,,55001,Afton,05,MN,100,Washington County Agricultural Society,MN,Washington
+MN5820530,Applewood Hills Golf Course,TNCWS,11840 - 60th Street North,,55082,Stillwater,05,MN,300,Applewood Hills Golf Course,MN,Washington
+MN5820531,Oneka Ridge Golf,TNCWS,4547 Empress Way North Apt. #3,,55038,Hugo,05,MN,250,Oneka Ridge Golf Club,MN,Washington
+MN5820532,Bailey Nursery (Production Building),TNCWS,6750 - 103rd Street South,,55016,Cottage Grove,05,MN,25,Bailey Nursery (Production Building),MN,Washington
+MN5820533,"Valters Aviation, Inc.",TNCWS,3275 Manning Avenue,,55042,Lake Elmo,05,MN,25,Valters Aviation,MN,Washington
+MN5820535,Pine Point Park,TNCWS,11660 Myeron Road North,,55082,Stillwater,05,MN,25,Washington County HELM,MN,Washington
+MN5820537,River Valley Christian Church,TNCWS,5900 Lake Elmo Avenue,,55042,Lake Elmo,05,MN,300,River Valley Christian Church,MN,Washington
+MN5820538,"B.J. Transport, Inc.",NTNCWS,12720 South Hudson Road,,55001,Afton,05,MN,25,"B. J. Transport, Inc.",MN,Washington
+MN5820540,Kingdom Hall-Jehovahs Witness,TNCWS,PO Box 55,,55025,Forest Lake,05,MN,25,Kingdom Hall of Jehovahs Witness,MN,Washington
+MN5820543,"Valley Buick, GMC, Inc.",NTNCWS,12257 Point Douglas Drive,,55033,Hastings,05,MN,50,"Valley Buick, GMC, Inc.",MN,Washington
+MN5820549,Tanner%27s Brook Golf Club,TNCWS,5810 - 190th Street North,,55025,Forest Lake,05,MN,200,Tanner%27s Brook Golf Club,MN,Washington
+MN5820550,Stoneridge Golf Club,NTNCWS,7949 East Acoma Drive #100,,85260,Scottsdale,05,MN,30,Dave Kloeber,AZ,Washington
+MN5820552,Arcola Mills Conference %26 Retreat Center,TNCWS,12412 Ravine Circle,,55082,Stillwater,05,MN,25,Arcola Mills Conference %26 Retreat Center,MN,Washington
+MN5820556,Shepherd of the Valley Lutheran Church,TNCWS,14107 Hudson Road South,,55001,Afton,05,MN,850,Shepherd of the Valley Lutheran Church,MN,Washington
+MN5820558,Denmark Township Hall %26 Park,TNCWS,14008 - 90th Street South,,55033,Hastings,05,MN,25,Denmark Township Hall %26 Park,MN,Washington
+MN5820559,White Bear Yacht Club - Golf House,NTNCWS,56 Dellwood Ave,,55110,White Bear Lake,05,MN,25,White Bear Yacht Club,MN,Washington
+MN5820560,LEPR-Group Shelter North,TNCWS,11660 Myeron Road North,,55082,Stillwater,05,MN,25,Washington County HELM,MN,Washington
+MN5820561,LEPR-Equestrian Center,TNCWS,11660 Myeron Road North,,55082,Stillwater,05,MN,25,Washington County HELM,MN,Washington
+MN5820562,LEPR-Modern Campground,TNCWS,11660 Myeron Road North,,55082,Stillwater,05,MN,25,Washington County HELM,MN,Washington
+MN5820563,LEPR-Eagle Point Trailhead,TNCWS,11660 Myeron Road North,,55082,Stillwater,05,MN,25,Washington County HELM,MN,Washington
+MN5820565,LEPR-Maintenance Shop,TNCWS,11660 Myeron Road North,,55082,Stillwater,05,MN,25,Washington County HELM,MN,Washington
+MN5820566,LEPR-Group Picnic South,TNCWS,11660 Myeron Road North,,55082,Stillwater,05,MN,25,Washington County HELM,MN,Washington
+MN5820567,LEPR-Swimming Facility,TNCWS,11660 Myeron Road North,,55082,Stillwater,05,MN,25,Washington County HELM,MN,Washington
+MN5820569,Lucy Winton Bell Athletic Field,TNCWS,SCSC Administration,P.O Box 181,55082,Stillwater,05,MN,500,Belwin,MN,Washington
+MN5820570,"Heins Valley Creek Nursery, Inc.",TNCWS,4830 Cottage Grove Drive,,55129,Woodbury,05,MN,25,Heins Valley Creek Nursery,MN,Washington
+MN5820571,"Country Sun Farm and Greenhouse, Inc.",TNCWS,5500 Lake Elmo Avenue North,,55042,Lake Elmo,05,MN,200,"Country Sun Farm and Greenhouse, Inc.",MN,Washington
+MN5820573,Mahtomedi Dairy Queen,TNCWS,12096 Everton Avenue,,55110,White Bear Lake,05,MN,200,Mahtomedi Dairy Queen,MN,Washington
+MN5820574,Church of Jesus Christ Latter-Day Saints,TNCWS,Mr. Steve Walbruch,6890 - 145th Street West,55124-8521,Apple Valley,05,MN,300,Church of Jesus Christ Latter-Day Saints,MN,Washington
+MN5820575,Hidden Pines Ranch,TNCWS,10670 - 75th Street North,,55082,Stillwater,05,MN,300,Hidden Pines Ranch,MN,Washington
+MN5820576,Ace Trailer Sales,TNCWS,12090 Margo Avenue,,55033,Hastings,05,MN,25,Ace Trailer Sales,MN,Washington
+MN5820578,Hugo Public Works Department,TNCWS,14669 Fitzgerald Avenue North,,55038,Hugo,05,MN,108,City of Hugo Public Works,MN,Washington
+MN5820581,LEPR-Play Structure,TNCWS,11660 Myeron Road North,,55082,Stillwater,05,MN,25,Washington County HELM,MN,Washington
+MN5820582,Five Oaks Community Church,TNCWS,4416 Radio Drive,,55125,Woodbury,05,MN,25,Five Oaks Community Church,MN,Washington
+MN5820584,Cozzie’s Tavern %26 Grill,TNCWS,818 Pine Street West,,55082,Stillwater,05,MN,100,Cozzie’s Tavern %26 Grill,MN,Washington
+MN5820585,Logger%27s Trail Golf Club,TNCWS,11950 - 80th Street N,,55082,Stillwater,05,MN,200,Logger%27s Trail Golf Club,MN,Washington

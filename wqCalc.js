@@ -6,7 +6,7 @@
 //each list will be for a different area
 //example facility can be found here: https://echo.epa.gov/detailed-facility-report?fid=CA1400020&sys=SDWIS
 //most information is in header table
-const pwsListCommunity = {CA1400020: {currentComplianceStatus: 'Violation Identified', qtrsWithNc: 12, formalEa:1, populationServed: 23}}
+const pwsListCommunity = {CA1400020: {complianceStatus: 'Violation Identified', qtrsWithNc: 12, formalEa:1, populationServed: 23}}
 
 //have another list of all other pws that are not identified as community water systems
 //this would be "non-transient non-community" and "transient non-community" water systems
@@ -40,7 +40,7 @@ function areaScore () {
         return (.6*communityScore+.4*otherScore)
     } else {
         //return a score in the rare circumstances that there is only one type of facility in area
-        return (max(communityScore, otherScore))
+        return (Math.max(communityScore, otherScore))
     }
 }
 
