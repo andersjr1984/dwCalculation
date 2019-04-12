@@ -2,8 +2,10 @@
 Drinking Water Quality Calculation Example
 
 echoTest.js
+
 This file returns a .csv file with every PWS in the United States, divided by State or EPA Region. 
   (more info here: https://echo.epa.gov/tools/web-services)
+
 Required Dependencies: 
   object-to-csv (npm install --save object-to-csv) https://www.npmjs.com/package/objects-to-csv
   request (npm install --save request)
