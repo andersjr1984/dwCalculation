@@ -4,6 +4,8 @@ const requestPromise = require('request-promise');
 const ObjectsToCsv = require('objects-to-csv');
 
 const states = [
+    '01',  '02',  '03',  '04',  '05',  '06',  '07',  '08',
+    '09',  '10',
     "AL",  "AK",  "AS",  "AZ",  "AR",  "CA",  "CO",  "CT",
     "DE",  "DC",  "FM",  "FL",  "GA",  "GU",  "HI",  "ID",
     "IL",  "IN",  "IA",  "KS",  "KY",  "LA",  "ME",  "MH",
