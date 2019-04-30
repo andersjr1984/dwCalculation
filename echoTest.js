@@ -2,6 +2,7 @@
 //2. load request-promise to fullfill request
 const requestPromise = require('request-promise');
 const ObjectsToCsv = require('objects-to-csv');
+const fs = require('fs');
 
 const states = [
     '01',  '02',  '03',  '04',  '05',  '06',  '07',  '08',
@@ -16,7 +17,9 @@ const states = [
     "WV",  "WI",  "WY"
 ];
 
-const retry = 2
+var stateGlobal = '';
+
+const retry = 2;
 
 const getAllStateInfo = async (hotNum) => {
     setTimeout(()=>{
@@ -29,6 +32,7 @@ const getAllStateInfo = async (hotNum) => {
 }
 
 const createStateFile = async (state) => {
+    stateGlobal = state;
     //call build state array
     //first argument is the state to look at
     //second argument is the number of rows to iterate through on each jump
@@ -72,6 +76,8 @@ const getFacilities = async (qid, tries, page, returnArr) => {
         const requestURL = `https://ofmpub.epa.gov/echo/sdw_rest_services.get_qid?output=JSON&qid=${qid}&pageno=${page}`;
         //2. call database
         const pwsDataJSON = await requestPromise({uri: requestURL});
+        //2a. save the JSON files
+        saveJSON(pwsDataJSON, page);
         //3. PARSE THE JSON RESPONSE
         const pwsData = JSON.parse(pwsDataJSON);
         //4. get the specific rows from the facilities results return
@@ -85,7 +91,7 @@ const getFacilities = async (qid, tries, page, returnArr) => {
             //when there are less than 5000 results, there are no more results
             return joinedArr
         }
-    } catch (error) {
+    } catch (error) {   ``
         if (tries<retry){return setTimeout(getFacilities(qid, tries+1, page, returnArr),2000)
         } else {
             console.log(error)
@@ -95,6 +101,13 @@ const getFacilities = async (qid, tries, page, returnArr) => {
     }
 };
 
+const saveJSON = (pwsDataJSON, page) => {
+    fs.writeFileSync(`./stateJSON/${stateGlobal}page${page}`, pwsDataJSON, err=> {
+        console.log(err)
+        console.log(`${state} on page ${page}`);
+    })
+}
+
 //need to return: PWSName, PWSId, StateCode, CountiesServed, EPARegion, PWSTypeCode, PopulationServedCount, DfrUrl
 
 const convertData = (sites) => {
@@ -102,6 +115,7 @@ const convertData = (sites) => {
     //map through epaData valuse to get an array with only relevant information
     const siteData = sites.map((indSite)=>{
         return ({PWSName:indSite.PWSName, PWSId:indSite.PWSId, StateCode:indSite.StateCode, CountiesServed:indSite.CountiesServed, 
+            ZipCode: indSite.ZipCodesServed,
             EPARegion:indSite.EPARegion, PWSTypeCode:indSite.PWSTypeCode, PopulationServedCount:indSite.PopulationServedCount, DfrUrl:indSite.DfrUrl})
     })
     return siteData;
