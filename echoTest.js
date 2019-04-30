@@ -17,8 +17,6 @@ const states = [
     "WV",  "WI",  "WY"
 ];
 
-var stateGlobal = '';
-
 const retry = 2;
 
 const getAllStateInfo = async (hotNum) => {
@@ -32,7 +30,6 @@ const getAllStateInfo = async (hotNum) => {
 }
 
 const createStateFile = async (state) => {
-    stateGlobal = state;
     //call build state array
     //first argument is the state to look at
     //second argument is the number of rows to iterate through on each jump
@@ -54,7 +51,7 @@ const getEpaData = async (state, active, tries) => {
         if (queryData.Results.QueryID){
             console.log(`${state}'s ${active} qid = ${queryData.Results.QueryID}`)
             //5. let user know what data has been collected
-            return getFacilities(queryData.Results.QueryID, 1, 1, []);
+            return getFacilities(queryData.Results.QueryID, state, 1, 1, []);
         } else {
             console.log(`${state} has no results`)
             return []
@@ -69,7 +66,7 @@ const getEpaData = async (state, active, tries) => {
     }
 };
 
-const getFacilities = async (qid, tries, page, returnArr) => {
+const getFacilities = async (qid, state, tries, page, returnArr) => {
     //check to make sure data exists
     try {
         //1. set up the request URL
@@ -77,7 +74,7 @@ const getFacilities = async (qid, tries, page, returnArr) => {
         //2. call database
         const pwsDataJSON = await requestPromise({uri: requestURL});
         //2a. save the JSON files
-        saveJSON(pwsDataJSON, page);
+        saveJSON(pwsDataJSON, state, page);
         //3. PARSE THE JSON RESPONSE
         const pwsData = JSON.parse(pwsDataJSON);
         //4. get the specific rows from the facilities results return
@@ -86,13 +83,13 @@ const getFacilities = async (qid, tries, page, returnArr) => {
         const joinedArr = returnArr.concat(facArr);
         if (facArr.length===5000){
             //when there are 5000 results, there are more on next page
-            return getFacilities(qid, 1, page+1, joinedArr);
+            return getFacilities(qid, state, 1, page+1, joinedArr);
         } else {
             //when there are less than 5000 results, there are no more results
             return joinedArr
         }
     } catch (error) {   ``
-        if (tries<retry){return setTimeout(getFacilities(qid, tries+1, page, returnArr),2000)
+        if (tries<retry){return setTimeout(getFacilities(qid, state, tries+1, page, returnArr),2000)
         } else {
             console.log(error)
             console.log(`Attempt on ${qid}'s data ended in failure in retrieving qid for ${active} sites.`)
@@ -101,8 +98,8 @@ const getFacilities = async (qid, tries, page, returnArr) => {
     }
 };
 
-const saveJSON = (pwsDataJSON, page) => {
-    fs.writeFileSync(`./stateJSON/${stateGlobal}page${page}`, pwsDataJSON, err=> {
+const saveJSON = (pwsDataJSON, state, page) => {
+    fs.writeFileSync(`./stateJSON/${state}page${page}`, `${pwsDataJSON}.JSON`, err=> {
         console.log(err)
         console.log(`${state} on page ${page}`);
     })
